@@ -1,0 +1,6 @@
+Symlinking /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/bin/cmake.lock
+Symlinking /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/bin/hil_plugin
+Linked: (/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake, /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake)
+Linked: (/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake, /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake)
+Symlinking /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/lib/python2.7/dist-packages/rqt_rotors/__init__.py
+Linked: (/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/rqt_rotors/lib/pkgconfig/rqt_rotors.pc, /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/lib/pkgconfig/rqt_rotors.pc)

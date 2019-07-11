@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/gazebo_ros_link_attacher/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install
+
+Name: rotors_evaluation
+Description: Description of rotors_evaluation
+Version: 4.0.6
+Cflags: 
+Libs: -L/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install/lib 
+Requires: 

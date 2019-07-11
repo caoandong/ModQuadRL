@@ -1,0 +1,1 @@
+/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig-version.cmake

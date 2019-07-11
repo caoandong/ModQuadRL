@@ -1,0 +1,8 @@
+prefix=/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install
+
+Name: rotors_joy_interface
+Description: Description of rotors_joy_interface
+Version: 4.0.6
+Cflags: -I/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install/include
+Libs: -L/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install/lib 
+Requires: roscpp geometry_msgs mav_msgs sensor_msgs trajectory_msgs

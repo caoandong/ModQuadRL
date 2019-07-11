@@ -1,0 +1,6 @@
+devel_space: /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel
+install: false
+install_space: /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install
+profile: default
+source_space: /home/antonio/documents/2019Summer/dronRL/crazyflies_ws/src
+workspace: /home/antonio/documents/2019Summer/dronRL/crazyflies_ws

@@ -1,0 +1,8 @@
+prefix=/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install
+
+Name: rotors_gazebo
+Description: Description of rotors_gazebo
+Version: 4.0.6
+Cflags: -I/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install/include -I/usr/include/eigen3
+Libs: -L/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/install/lib 
+Requires: geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs gazebo_msgs

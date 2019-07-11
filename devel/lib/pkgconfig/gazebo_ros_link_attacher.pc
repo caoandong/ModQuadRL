@@ -1,0 +1,1 @@
+/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/gazebo_ros_link_attacher/lib/pkgconfig/gazebo_ros_link_attacher.pc

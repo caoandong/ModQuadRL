@@ -1,0 +1,1 @@
+/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/rotors_description/share/rotors_description/cmake/rotors_descriptionConfig.cmake

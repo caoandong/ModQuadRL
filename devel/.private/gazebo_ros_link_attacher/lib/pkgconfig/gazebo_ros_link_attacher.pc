@@ -1,0 +1,8 @@
+prefix=/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/gazebo_ros_link_attacher
+
+Name: gazebo_ros_link_attacher
+Description: Description of gazebo_ros_link_attacher
+Version: 0.0.0
+Cflags: -I/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/gazebo_ros_link_attacher/include
+Libs: -L/home/antonio/documents/2019Summer/dronRL/crazyflies_ws/devel/.private/gazebo_ros_link_attacher/lib 
+Requires: message_runtime
